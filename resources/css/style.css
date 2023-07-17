@@ -468,3 +468,51 @@ header .little-description{
     opacity: 1;
 }
 
+/*===================================*/
+/*###### DOWNLOAD SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.download-section {
+    background:#f5f6f7;
+    text-align:center;
+    padding: 8rem 45rem;
+}
+.download-section h2{
+    color:#000;
+
+}
+.download-section .little-description{
+    color:#333;
+    font-size:1.6rem;
+    width: 80%;
+    margin: auto;
+}
+
+.download-section .btn-store{
+    background:#1abc9c;
+    font-weight:600;
+    width: 56%;
+    text-align: left;
+    letter-spacing: .4rem;
+}
+
+.download-section i{
+    background-color: #1abc9c;
+    padding: 2rem ;
+    border-bottom-right-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+.download-section .btn{
+    border-bottom-left-radius: none !important;
+    border-top-left-radius: none !important;
+   
+}
+.download-section i{
+    color:#fff;
+}
+
+.download-section i:hover{
+    color:#16a085;
+    cursor: pointer;
+}
