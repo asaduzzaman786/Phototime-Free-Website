@@ -314,3 +314,28 @@ header .little-description{
     margin:0 2rem;
 }
 
+/*===================================*/
+/*###### PHOTOAPP SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.photoapp-section{
+    background:#fff;
+
+
+}
+
+.photoapp-section .little-description{
+    color:#333;
+    font-size:1.6rem;
+}
+
+.photoapp-section h2{
+
+    margin-top: 2rem;
+}
+
+.photoapp-section .photoapp-photo{
+    width:50%;
+    height:50%;
+    margin-left: 20%;
+}
