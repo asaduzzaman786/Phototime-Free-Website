@@ -408,3 +408,63 @@ header .little-description{
 .community-section .box img{
     width: 290px;
 }
+
+/*===================================*/
+/*###### SUBSCRIBE SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.subscribe-section{
+    background:url(img/handphone.jpg);
+    background-size:cover;
+    background-position:center center;
+    background-repeat:no-repeat;
+    height:65vh;
+    background-attachment:fixed;
+    position:relative;
+
+}
+
+.subscribe-section h2{
+    color:#fff;
+    letter-spacing:.7rem;
+}
+
+.subscribe-section input{
+    background:#fff;
+    border:none;
+    width:65%;
+    padding:2.5rem;
+    border-radius:.5rem;
+    font-size:1.8rem;
+    color:#333;
+    margin:1.5rem  0;
+    border-bottom-right-radius: 0;
+    border-top-right-radius:0;
+}
+
+.subscribe-section .hero-text-box i{
+    background-color: #16a085;
+    padding: 2.6rem;
+    border-bottom-right-radius: .3rem;
+    border-top-right-radius: .3rem;
+}
+
+.subscribe-section .hero-text-box .btn{
+    border-bottom-left-radius: none !important;
+    border-top-left-radius: none !important;
+   
+}
+.subscribe-section .hero-text-box i{
+    color:#fff;
+}
+
+.subscribe-section .hero-text-box i:hover{
+    color:#16a085;
+    cursor: pointer;
+}
+.subscribe-section input::placeholder{
+    color:#333;
+    letter-spacing: .5rem;
+    opacity: 1;
+}
+
