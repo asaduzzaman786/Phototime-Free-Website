@@ -339,3 +339,45 @@ header .little-description{
     height:50%;
     margin-left: 20%;
 }
+
+/*===================================*/
+/*###### DESIGN SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.design-section{
+    background:linear-gradient(#f5f6f7be,#f5f6f7bd) , url(img/img-5.jpg);
+    background-attachment:fixed;
+
+
+}
+
+
+.design-section .little-description{
+    color:#333;
+    font-size:1.6rem;
+
+}
+.design-section h2{
+    margin-top: 2rem;
+
+}
+.design-section .design-photo{
+    width:50%;
+    height:50%;
+}
+
+.design-page{
+    margin-top: 4rem;
+    color: #333;
+    font-weight: 600;
+}
+
+.design-page i{
+    font-weight: 600;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.design-page i:last-child{
+ margin-left: 1rem;
+}
