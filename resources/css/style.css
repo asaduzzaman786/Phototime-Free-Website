@@ -516,3 +516,51 @@ header .little-description{
     color:#16a085;
     cursor: pointer;
 }
+
+/*===================================*/
+/*###### FOOTER SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.footer-section{
+    padding:2rem 48rem;
+
+}
+
+.footer-section span a {
+    text-decoration:none;
+    text-transform:uppercase;
+    font-weight:600;
+    color:#000;
+    letter-spacing: 0.3rem;
+    border-left:.3rem solid #1abc9c;
+    padding: 0 1.5rem;
+}
+
+.footer-section span a:first-child{
+    border:none;
+    padding:0;
+}
+.footer-section p{
+    letter-spacing: 0.3rem;
+    margin-top: 2rem;
+    font-weight:600;
+    display:block;
+
+}
+
+.footer-section .copyright{
+   font-size: 1.3rem;
+
+}
+
+.footer-section .copyright a{
+    text-decoration:none;
+    color:green;
+    font-weight:800;
+    font-size: 1.8rem;
+}
+
+.footer-section img{
+    float:right;
+    
+}
