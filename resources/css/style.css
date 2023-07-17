@@ -381,3 +381,30 @@ header .little-description{
 .design-page i:last-child{
  margin-left: 1rem;
 }
+
+/*===================================*/
+/*###### COMMUNITY SECTION ################*/
+/*******%%%%%%%%%%%%%%%%%%%%********/
+
+.community-section{
+    text-align: center;
+    background:#f5f6f7;
+    padding: 5rem 50rem;
+}
+
+.community-section .little-description{
+    color:#333;
+    font-size:1.5rem;
+    letter-spacing:0;
+
+}
+.community-section h3{
+    margin:2rem 0;
+}
+.community-section .camera{
+    margin-top: 2.4rem;
+}
+
+.community-section .box img{
+    width: 290px;
+}
