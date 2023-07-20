@@ -1,1 +1,410 @@
+@media only screen and (max-width:5000px){
 
+    section{
+        padding: 2rem 202rem ;
+    }
+ 
+    .footer-section{
+     padding:2rem 205rem;
+    }
+     .header-icon{
+         margin-top: 93%;
+         margin-left:46%;
+     }
+ 
+ }
+ 
+ @media only screen and (max-width:1950px){
+ 
+     section{
+         padding: 2rem 50rem;
+     
+     }
+ 
+     .header-icon{
+         margin-top: 93%;
+         margin-left:46%;
+     }
+     .footer-section{
+         padding:2rem 48rem;
+     
+     }
+ }
+ 
+ @media only screen and (max-width:1400px){
+ 
+     section{
+         padding: 2rem 22rem;
+     
+     }
+ 
+     .header-icon{
+         margin-top: 93%;
+         margin-left:46%;
+     }
+ 
+     .community-section{
+         padding: 2rem 20rem;
+     }
+ 
+     .download-section {
+         padding: 8rem 20rem;
+     }
+     
+     .download-section .btn-store {
+         width: 58%;
+       }
+     .footer-section{
+         padding:2rem 22rem;
+     
+     }
+ }
+ 
+ @media only screen and (max-width:1200px){
+ 
+     html{
+         font-size: 52%;
+     }
+ 
+     
+    section{
+     padding: 2rem 25rem ;
+    }
+ 
+     header{
+         height:75vh;
+     }
+ 
+     .header-icon{
+         margin-top: 70%;
+         margin-left:46%;
+     }
+     
+     .community-section{
+         padding: 2rem 24rem;
+     }
+     .community-section .camera{
+         margin-top:0;
+     }
+ 
+     .community-section .box img{
+         width: 240px;
+     }
+ 
+     .subscribe-section{
+         height:45vh;
+     
+     }
+       .download-section {
+         padding: 8rem 20rem;
+     }
+ 
+     .footer-section{
+         padding:2rem 24rem;
+     
+     }
+ 
+     .sticky{
+         padding:.8rem 0;
+     }
+ }
+ 
+ @media only screen and (max-width:1024px){
+     .btn:link,
+      .btn:visited,
+     .btn{
+         padding:1.5rem 3.5rem;
+         border-radius:.3rem;
+         display:inline-block;
+         margin-top:4rem;
+         font-size:1.5rem;
+     
+     }
+ 
+     header{
+         height: 70vh;
+     }
+ 
+     .header-icon{
+         margin-top: 65%;
+     }
+ 
+     section{
+         padding: 2rem 15rem ;
+        }
+ 
+        .community-section{
+         padding: 2rem 17rem;
+     }
+ 
+     .subscribe-section input{
+         font-size:1.5rem;
+     }
+ 
+     .download-section i{
+         padding: 1.5rem ;
+     }
+ 
+     .footer-section{
+         padding:2rem 14rem;
+     
+     }
+ }
+ 
+ @media only screen and (max-width:980px){
+ 
+     header{
+         height: 60vh;
+     }
+     .header-icon{
+         margin-top:53%;
+     }
+ 
+     .download-section .btn-store{
+         font-size: 1.3rem;
+     }
+ 
+     .subscribe-section{
+         height:40vh;
+     
+     }
+ 
+     .community-section{
+         padding: 2rem 12rem;
+     }
+ 
+     .subscribe-section input{
+         font-size:1.5rem;
+         padding:2rem;
+     }
+ 
+     .subscribe-section .hero-text-box i{
+         padding: 2rem;
+     }
+ 
+     .download-section i{
+         padding:1.4rem 
+     }
+ 
+     .main-nav,
+     .main-header{
+         display: none;
+     }
+ 
+     .mobile-menu span{
+         display: block;
+     }
+ 
+     .logo{
+         left:5%;
+         top:1rem
+      }
+ 
+      .sticky{
+         padding:2rem 0;
+     }
+     .footer-section{
+         padding:2rem 10rem;
+     
+     }
+ 
+ }
+ 
+ @media only screen and (max-width:768px){
+     html{
+         font-size: 46%;
+     }
+     
+     .row{
+         margin:0 2rem;
+     }
+ 
+     .header-icon{
+         margin-top: 70%;
+         margin-left:43%;
+     }
+ 
+       
+    section{
+     padding: 2rem 0 ;
+    }
+ 
+    .subscribe-section{
+     height:35vh;
+ 
+   }
+ 
+   .community-section{
+     padding: 2rem 1rem;
+   }
+ 
+   .community-section .box img{
+     width: 235px;
+   }
+   .download-section .btn-store {
+     font-size: 1.4rem;
+     width: 80%;
+   }
+ 
+   .footer-section{
+     padding:2rem 1rem;
+ 
+   }
+ }
+ 
+ 
+ @media only screen and (max-width:480px){
+    .logo{
+        left: 8%;
+    }
+    header{
+        height: 100vh;
+    }
+ 
+    .header-icon{
+     margin-top: 195%;
+     margin-left:40%;
+     
+    }
+    .span_1_of_2{
+        width: 100%;
+       
+    }
+ 
+    .span_1_of_3{
+     width: 100%;
+    }
+    header .little-description{
+     line-height:3rem;
+    }
+ 
+    header h1{
+     width: 160%;
+     margin-left: -9rem;
+    }
+ 
+    .photoapp-section .photoapp-photo{
+      margin: auto;
+      margin-left: -2rem;
+      margin-top: 5rem;
+     }
+ 
+     .community-section .box img{
+         width: 420px;
+     }
+ 
+     .subscribe-section input{
+         width:85%;
+     }
+     .subscribe-section{
+         height: 50vh;
+     }
+ 
+     .download-section .little-description{
+         width: 100%;
+     }
+ 
+     .download-section {
+         padding: 4rem 0;
+     }
+ 
+     .download-section .btn-store{
+         width: 36%;
+     }
+     .footer-section{
+         padding:2rem 0;
+     
+     }
+ 
+     .footer-section img{
+         float:left;
+     }
+ 
+ }
+ 
+ @media only screen and (max-width:414px){
+     .header-icon{
+         margin-top: 165%;
+         margin-left:40%;
+         
+        }
+        .community-section .box img{
+         width: 360px;
+     }
+ 
+     .subscribe-section input{
+         width:80%;
+     }
+     .download-section .btn-store{
+         width: 46%;
+     }
+ }
+ 
+ @media only screen and (max-width:375px){
+     .header-icon{
+         margin-top: 164%;
+         margin-left:35%;
+     }
+     
+        .logo{
+            margin-left: 1rem;
+        }
+ 
+        .download-section .btn-store{
+         width: 50%;
+     }
+     .community-section .box img{
+         width: 320px;
+     }
+ }
+ 
+ @media only screen and (max-width:360px){
+     .header-icon{
+         margin-top: 163%;
+         margin-left:35%;
+     }
+     .community-section .box img{
+         width: 310px;
+     }
+     .subscribe-section h2{
+         font-size: 1.9rem;
+     }
+     .download-section .btn-store{
+         width: 56%;
+     }
+ }
+ 
+ @media only screen and (max-width:280px){
+     html{
+         font-size: 40%;
+     }
+     
+     .row{
+         margin:0 3rem;
+     }
+ 
+     header{
+         height: 70vh;
+     }
+     .sticky{
+         padding: 3rem 0;
+     }
+     header h1{
+         margin-left: -7rem;
+     }
+     .header-icon{
+         margin-top: 153%;
+       
+     }
+     .community-section .box img{
+         width: 220px;
+     }
+     .download-section .btn-store{
+         width: 65%;
+     }
+ 
+     .subscribe-section input{
+         width:75%;
+         font-size: 1.3rem;
+     }
+ }
